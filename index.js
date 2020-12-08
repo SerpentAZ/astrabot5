@@ -109,4 +109,4 @@ client.on("message", async(message) => {
 })
 
 
- client.login(client.env.token)
+ client.login("Nzg1MzEwNTYzNjEzNTQwMzcy.X81_dA.dfSeHEK4UnVPnv46JIx14XON0X4")
